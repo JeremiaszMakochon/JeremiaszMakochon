@@ -1,8 +1,8 @@
 respository shortcut ---> https://github.com/JeremiaszMakochon?tab=repositories
 
-
-
-
+a
+b
+c
 
 /|        
 (o o >   ^
@@ -10,4 +10,4 @@ respository shortcut ---> https://github.com/JeremiaszMakochon?tab=repositories
   |   /  ))
   ᵕ  a _
 
-	-*Jeremi*-
+-*jeremi*-
